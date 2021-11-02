@@ -1,4 +1,4 @@
-<img align="right" alt="GIF" src="https://github.com/umitkoc0/umitkoc0/blob/main/code.gif?raw=true" width="380" height="300" />
+<img align="right" alt="GIF" src="https://github.com/umitkoc0/umitkoc0/blob/main/code.gif?raw=true" width="380" height="250" />
 
 ## I'm a Student 👨‍🎓, Computer Programmer 🚀,
 - 🔭 I’m currently working on designing a large and custom website.
