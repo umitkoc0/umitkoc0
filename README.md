@@ -3,8 +3,10 @@
 ## I'm a Student 👨‍🎓, Computer Programmer 🚀,
 - 🔭 I’m currently working on designing a large and custom website.
 - 🌱 I’m currently learning 😂
+- 💻 I like exploring GNU/Linux.
 - 🥅 2021 Goals: Developing an app to be heard in the world 🌎 and learning artificial intelligence 🤖
 - ⚡ Fun fact: I love to swim 🏊‍♀️, play chess ♟, and cycling 🚴‍♀️
+- 👩‍💻 Banging your head against a wall for one hour burns 150 calories.
 
 
 ## ⏲ What we are doing now:
