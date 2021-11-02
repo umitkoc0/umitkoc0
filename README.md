@@ -1,4 +1,4 @@
-<img align="right" alt="GIF" src="https://github.com/umitkoc0/umitkoc0/blob/main/code.gif?raw=true" width="500" height="300" />
+<img align="right" alt="GIF" src="https://github.com/umitkoc0/umitkoc0/blob/main/code.gif?raw=true" width="400" height="200" />
 
 ## I'm a Student 👨‍🎓, Computer Programmer 🚀,
 - 🔭 I’m currently working on designing a large and custom website.
@@ -16,9 +16,9 @@ I'm a Programming Student 💻.
 ### 📩 Connect with me:
 
 [<img align="left" alt="linkedin | LinkedIn" width="24px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />][linkedin]
+[<img align="left" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/codepen.svg" />][codepen]
 [<img align="left" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/instagram.svg" />][instagram]
 [<img align="left" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/gmail.svg" />][gmail]
-[<img align="left" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/codepen.svg" />][codepen]
 
 
 <br />
