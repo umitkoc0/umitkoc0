@@ -1,4 +1,4 @@
-<img align="right" alt="GIF" src="https://github.com/umitkoc0/umitkoc0/blob/main/code.gif?raw=true" width="350" height="230" />
+<img align="right" alt="GIF" src="https://github.com/umitkoc0/umitkoc0/blob/main/code.gif?raw=true" width="350" height="240" />
 
 ## I'm a Student 👨‍🎓, Computer Programmer 🚀,
 - 🔭 I’m currently working on designing a large and custom website.
@@ -29,7 +29,7 @@ I'm a Programming Student 💻.
 [instagram]: https://www.instagram.com/umitkoc0
 [linkedin]: https://www.linkedin.com/in/umit-koc-170398225
 [codepen]: https://codepen.io/umitkoc0
-[gmail]: mailto:umitkooc0@gmail.com
+[gmail]: mailto:umitkooc0@gmail.com 
 <br />
 
 ### 🔧 Languages and Tools:
