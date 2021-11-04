@@ -20,6 +20,7 @@ I'm a Programming Student 💻.
 [<img align="left" alt="linkedin | LinkedIn" width="24px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />][linkedin]
 [<img align="left" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/codepen.svg" />][codepen]
 [<img align="left" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/instagram.svg" />][instagram]
+[<img align="left" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/twitter.svg" />][twitter]
 [<img align="left" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/gmail.svg" />][gmail]
 
 
@@ -28,6 +29,7 @@ I'm a Programming Student 💻.
 
 [instagram]: https://www.instagram.com/umitkoc0
 [linkedin]: https://www.linkedin.com/in/umit-koc-170398225
+[codepen]: https://twitter.com/umitkoc0
 [codepen]: https://codepen.io/umitkoc0
 [gmail]: mailto:umitkooc0@gmail.com 
 <br />
