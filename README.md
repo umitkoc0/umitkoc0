@@ -29,7 +29,7 @@ I'm a Programming Student 💻.
 
 [instagram]: https://www.instagram.com/umitkoc0
 [linkedin]: https://www.linkedin.com/in/umit-koc-170398225
-[codepen]: https://twitter.com/umitkoc0
+[twitter]: https://twitter.com/umitkoc0
 [codepen]: https://codepen.io/umitkoc0
 [gmail]: mailto:umitkooc0@gmail.com 
 <br />
