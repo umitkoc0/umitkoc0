@@ -1,17 +1,17 @@
 <img align="right" alt="GIF" src="https://github.com/umitkoc0/umitkoc0/blob/main/code.gif?raw=true" width="350" height="240" />
 
-## I'm a Student 👨‍🎓, Computer Programmer 🚀,
-- 🔭 I’m currently working on designing a large and custom website.
-- 🌱 I’m currently learning 😂
-- 💻 I like exploring GNU/Linux.
-- 🥅 2021 Goals: Developing an app to be heard in the world 🌎 and learning artificial intelligence 🤖
-- ⚡ Fun fact: I love to swim 🏊‍♀️, play chess ♟, and cycling 🚴‍♀️
-- 👩‍💻 Banging your head against a wall for one hour burns 150 calories.
+## I'm a Software Developer🚀,
+- 🔭I am currently trying to design a large and custom website.
+- 🌱I'm learning right now 😂
+- 💻 I like to explore C# and SQL.
+- 🥅 2023 goals: Developing an app to be heard in the world 🌎 and learning artificial intelligence 🤖
+- ⚡ Fun fact: I love swimming 🏊‍♀️, playing chess ♟ and cycling 🚴‍♀️
+- 👩‍💻 Hitting your head against a wall for an hour burns 150 calories.
 
 
-## ⏲ What we are doing now:
-I’m designing a website📃.
-I'm a Programming Student 💻.
+## ⏲ What am I doing now:
+I design websites and develop desktop applications📃.
+I'm a Software Developer 💻.
 
 <br />
 
@@ -27,7 +27,7 @@ I'm a Programming Student 💻.
 
 
 [instagram]: https://www.instagram.com/umitkoc0
-[linkedin]: https://www.linkedin.com/in/umit-koc-170398225
+[linkedin]: https://www.linkedin.com/in/umitkoc0/
 [codepen]: https://codepen.io/umitkoc0
 [gmail]: mailto:umitkooc0@gmail.com 
 <br />
