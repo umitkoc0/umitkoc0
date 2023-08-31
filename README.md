@@ -17,7 +17,7 @@ I'm a Software Developer 💻.
 
 ### 📩 Connect with me:
 
-[<img align="left" alt="linkedin | LinkedIn" width="24px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />][linkedin]
+[<img align="left" alt="linkedin | LinkedIn" width="24px" src="https://icons8.com/icon/13930/linkedin" />][linkedin]
 [<img align="left" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/codepen.svg" />][codepen]
 [<img align="left" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/instagram.svg" />][instagram]
 [<img align="left" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/gmail.svg" />][gmail]
