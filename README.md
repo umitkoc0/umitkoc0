@@ -58,7 +58,7 @@ I'm a Software Developer 💻.
 
 <br />
 <br />
-<img src=https://github.com/umitkoc0/github-contribution-grid-snake.git><br>
+<img src=https://github.com/umitkoc0/github-contribution-grid-snake/blob/main/github-contribution-grid-snake.gif><br>
 
 <!--
 **umitkoc0/umitkoc0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
