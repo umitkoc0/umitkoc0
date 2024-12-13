@@ -4,7 +4,7 @@
 - 🔭I am currently trying to design a large and custom website.
 - 🌱I'm learning right now 😂
 - 💻 I like to explore C# and SQL.
-- 🥅 2023 goals: Developing an app to be heard in the world 🌎 and learning artificial intelligence 🤖
+- 🥅 2025 goals: Developing an app to be heard in the world 🌎 and learning artificial intelligence 🤖
 - ⚡ Fun fact: I love swimming 🏊‍♀️, playing chess ♟ and cycling 🚴‍♀️
 - 👩‍💻 Hitting your head against a wall for an hour burns 150 calories.
 
@@ -17,7 +17,7 @@ I'm a Software Developer 💻.
 
 ### 📩 Connect with me:
 
-[<img align="left" alt="linkedin | LinkedIn" width="24px" src="https://icons8.com/icon/13930/linkedin" />][linkedin]
+[<img align="left" alt="linkedin | LinkedIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.25.0/icons/linkedin.svg" />][linkedin]
 [<img align="left" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/codepen.svg" />][codepen]
 [<img align="left" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/instagram.svg" />][instagram]
 [<img align="left" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/gmail.svg" />][gmail]
