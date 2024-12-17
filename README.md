@@ -1,5 +1,3 @@
-<img align="right" alt="GIF" src="https://github.com/umitkoc0/umitkoc0/blob/main/code.gif?raw=true" width="350" height="240" />
-
 # 💫 About Me:
 ## I'm a Software Developer🚀,
 🔭I am currently trying to design a large and custom website.<br>
@@ -49,6 +47,7 @@
 
 
 <!--
+<img align="right" alt="GIF" src="https://github.com/umitkoc0/umitkoc0/blob/main/code.gif?raw=true" width="350" height="240" />
 ### 📩 Connect with me:
 
 [<img align="left" alt="linkedin | LinkedIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.25.0/icons/linkedin.svg" />][linkedin]
