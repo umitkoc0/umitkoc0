@@ -1,11 +1,11 @@
 # 💫 About Me:
 ## I'm a Software Developer🚀,
-🔭 I am currently trying to design a large and custom application.
-🌱 I'm learning right now 😂
-💻 I like to explore C# and SQL.
-🥅 2025 goals: Developing an app to be heard in the world 🌎 and learning DevOps 🚀
-⚡ Fun fact: I love swimming 🏊‍♀️, playing chess ♟, and cycling 🚴‍♀️.
-👨‍💻 Debugging is like being the detective in a crime movie where you are also the murderer.
+🔭 I am currently trying to design a large and custom application.<br>
+🌱 I'm learning right now 😂<br>
+💻 I like to explore C# and SQL.<br>
+🥅 2025 goals: Developing an app to be heard in the world 🌎 and learning DevOps 🚀<br>
+⚡ Fun fact: I love swimming 🏊‍♀️, playing chess ♟, and cycling 🚴‍♀️.<br>
+👨‍💻 Debugging is like being the detective in a crime movie where you are also the murderer.<br>
 
 
 ## 🌐 Socials:
